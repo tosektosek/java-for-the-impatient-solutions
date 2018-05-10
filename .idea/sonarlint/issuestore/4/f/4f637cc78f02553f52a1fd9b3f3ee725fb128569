@@ -1,0 +1,7 @@
+
+ysquid:S1488"_Immediately return this expression instead of assigning it to the temporary variable "element".(Ü»ñ¸úÿÿÿÿ
+6squid:S1170"!Make this final field static too.(¢÷¾¼
+asquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(½‰šÏøÿÿÿÿ
+\squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(„ÔÃ
+msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(Ëÿ½‚
+.squid:S1700"Rename field "stack"(½¹•õøÿÿÿÿ

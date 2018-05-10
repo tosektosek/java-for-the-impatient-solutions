@@ -1,0 +1,18 @@
+package com.company.r04.dziedziczenie_i_mechanizm_refleksji.code.sec03;
+
+/**
+ * @author Kamil
+ */
+public enum  Size {
+    SMALL("S"), MEDIUM("M"), LARGE("L"), EXTRA_LARGE("XL");
+
+    private String abbreviation;
+
+    Size(String abbreviation) {
+        this.abbreviation = abbreviation;
+    }
+
+    public String getAbbreviation() {
+        return abbreviation;
+    }
+}

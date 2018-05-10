@@ -1,0 +1,20 @@
+
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.( ï€Üÿÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(şÒãûÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÖËÌ¸
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ö—»Äúÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(¿³­şÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(şÒãûÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(­–ÒÁøÿÿÿÿ
+?squid:S1181"%Catch Exception instead of Throwable.(À˜§üÿÿÿÿ
+?squid:S1181"%Catch Exception instead of Throwable.(À˜§üÿÿÿÿ
+msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(¤°Óó
+8squid:S1148"#Use a logger to log this exception.(Ç’Çê
+8squid:S1148"#Use a logger to log this exception.(Ç’Çê
